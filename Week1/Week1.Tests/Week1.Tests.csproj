@@ -19,4 +19,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Week1\Week1.csproj" />
+  </ItemGroup>
+
 </Project>

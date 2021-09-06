@@ -98,3 +98,10 @@ C:\Users\Magnus\Documents\maoeBDSA2021\Week1\Week1.Tests\obj\Debug\net5.0\Week1.
 C:\Users\Magnus\Documents\maoeBDSA2021\Week1\Week1.Tests\obj\Debug\net5.0\ref\Week1.Tests.dll
 C:\Users\Magnus\Documents\maoeBDSA2021\Week1\Week1.Tests\obj\Debug\net5.0\Week1.Tests.pdb
 C:\Users\Magnus\Documents\maoeBDSA2021\Week1\Week1.Tests\obj\Debug\net5.0\Week1.Tests.genruntimeconfig.cache
+C:\Users\Magnus\Documents\maoeBDSA2021\Week1\Week1.Tests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Magnus\Documents\maoeBDSA2021\Week1\Week1.Tests\bin\Debug\net5.0\Week1.deps.json
+C:\Users\Magnus\Documents\maoeBDSA2021\Week1\Week1.Tests\bin\Debug\net5.0\Week1.runtimeconfig.json
+C:\Users\Magnus\Documents\maoeBDSA2021\Week1\Week1.Tests\bin\Debug\net5.0\Week1.runtimeconfig.dev.json
+C:\Users\Magnus\Documents\maoeBDSA2021\Week1\Week1.Tests\bin\Debug\net5.0\Week1.exe
+C:\Users\Magnus\Documents\maoeBDSA2021\Week1\Week1.Tests\bin\Debug\net5.0\Week1.dll
+C:\Users\Magnus\Documents\maoeBDSA2021\Week1\Week1.Tests\bin\Debug\net5.0\Week1.pdb
